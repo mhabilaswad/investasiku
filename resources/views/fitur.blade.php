@@ -135,7 +135,7 @@
 
     <!-- Footer Section -->
     <footer>
-        <p>Tentang Kami | <a href="#">Sosial Media</a> | <a href="{{ route('kebijakan') }}">Kebijakan Privasi</a> | <a href="{{ route('syarat') }}">Syarat & Ketentuan</a></p>
+        <p><a href="tentang">Tentang Kami</a> | <a href="#">Sosial Media</a> | <a href="{{ route('kebijakan') }}">Kebijakan Privasi</a> | <a href="{{ route('syarat') }}">Syarat & Ketentuan</a></p>
         <p>Kontak: <a href="mailto:HNBN@gmail.com">HNBN@gmail.com</a></p>
     </footer>
 

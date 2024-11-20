@@ -106,11 +106,26 @@
             <strong>2. Inovasi:</strong> Kami terus berusaha menciptakan solusi yang relevan untuk kebutuhan masyarakat modern.<br>
             <strong>3. Keberlanjutan:</strong> Kami berkomitmen untuk menciptakan dampak jangka panjang yang positif bagi semua pihak.
         </p>
+
+        <h2>Pembuat Website</h2>
+        <p>
+            Website ini dikembangkan oleh dua mahasiswa Informatika Universitas Syiah Kuala untuk menyelesaikan tugas mata kuliah Pengembangan dan Operasional Perangkat Lunak. 
+            Kami percaya bahwa pengalaman ini dapat memberikan kontribusi nyata dalam dunia pengembangan perangkat lunak. Berikut adalah informasi tentang kami:
+        </p>
+        <ul>
+            <li><strong>Muhammad Habil Aswad</strong> - NPM 2208107010013<br>
+            <a href="https://www.linkedin.com/in/muhammad-habil-aswad/" target="_blank">LinkedIn: Muhammad Habil Aswad</a></li>
+            <li><strong>Muhammad Nabil Maulana</strong> - NPM 2208107010011<br>
+            <a href="https://www.linkedin.com/in/m-nabil-maulana/" target="_blank">LinkedIn: Muhammad Nabil Maulana</a></li>
+        </ul>
+        <p>
+            Dengan semangat inovasi dan kolaborasi, kami berharap platform ini dapat bermanfaat bagi pengguna di Indonesia.
+        </p>
     </div>
 
     <!-- Footer Section -->
     <footer>
-        <p>Tentang Kami | <a href="#">Sosial Media</a> | <a href="{{ route('kebijakan') }}">Kebijakan Privasi</a> | <a href="{{ route('syarat') }}">Syarat & Ketentuan</a></p>
+        <p><a href="tentang">Tentang Kami</a> | <a href="#">Sosial Media</a> | <a href="{{ route('kebijakan') }}">Kebijakan Privasi</a> | <a href="{{ route('syarat') }}">Syarat & Ketentuan</a></p>
         <p>Kontak: <a href="mailto:HNBN@gmail.com">HNBN@gmail.com</a></p>
     </footer>
 

@@ -131,15 +131,15 @@
 
         <!-- Informasi Kontak -->
         <div class="contact-info">
-            <p><strong>Email:</strong> <a href="mailto:info@investasiku.com">info@investasiku.com</a></p>
-            <p><strong>Telepon:</strong> +62 812 3456 7890</p>
-            <p><strong>Alamat:</strong> Jl. Investasi No. 123, Jakarta, Indonesia</p>
+            <p><strong>Email:</strong> <a href="mailto:HNBN@gmail.com">HNBN@gmail.com</a></p>
+            <p><strong>Telepon:</strong> +62 812 345 678</p>
+            <p><strong>Alamat:</strong> Banda Aceh</p>
         </div>
     </div>
 
     <!-- Footer Section -->
     <footer>
-        <p>Tentang Kami | <a href="#">Sosial Media</a> | <a href="{{ route('kebijakan') }}">Kebijakan Privasi</a> | <a href="{{ route('syarat') }}">Syarat & Ketentuan</a></p>
+        <p><a href="tentang">Tentang Kami</a> | <a href="#">Sosial Media</a> | <a href="{{ route('kebijakan') }}">Kebijakan Privasi</a> | <a href="{{ route('syarat') }}">Syarat & Ketentuan</a></p>
         <p>Kontak: <a href="mailto:HNBN@gmail.com">HNBN@gmail.com</a></p>
     </footer>
 
