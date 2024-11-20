@@ -112,16 +112,6 @@
         </div>
 
         <div class="faq-item">
-            <h3>Bagaimana cara mendaftar?</h3>
-            <p>Anda dapat mendaftar dengan mengklik tombol "Daftar" di halaman utama kami dan mengisi data yang diperlukan.</p>
-        </div>
-
-        <div class="faq-item">
-            <h3>Apakah platform ini gratis?</h3>
-            <p>InvestasiKU menyediakan fitur dasar secara gratis. Namun, kami juga menawarkan fitur premium dengan biaya langganan.</p>
-        </div>
-
-        <div class="faq-item">
             <h3>Bagaimana cara menghubungi tim support?</h3>
             <p>Anda dapat menghubungi kami melalui halaman <a href="{{ route('kontak') }}">Kontak</a> untuk mendapatkan bantuan lebih lanjut.</p>
         </div>
