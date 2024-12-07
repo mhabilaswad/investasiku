@@ -16,3 +16,6 @@ RUN cd /app && /usr/local/bin/composer install --no-dev --optimize-autoloader
 RUN chown -R www-data: /app
 
 CMD sh /app/docker/startup.sh
+
+# Expose port 8080
+EXPOSE 7000
